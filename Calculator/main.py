@@ -23,8 +23,6 @@ operations = {
     "/":divide
 }
 
-y = 0
-
 def calculator():
     print(art.logo)
     while True:
